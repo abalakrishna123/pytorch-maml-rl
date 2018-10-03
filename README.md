@@ -1,4 +1,4 @@
-# Reinforcement Learning with Model-Agnostic Meta-Learning (MAML)
+# Reinforcement Learning with Model-Agnostic Meta-Learning (MAML) RL
 
 ![HalfCheetahDir](https://raw.githubusercontent.com/tristandeleu/pytorch-maml-rl/master/_assets/halfcheetahdir.gif)
 
